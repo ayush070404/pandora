@@ -1,1 +1,0 @@
-# Autonomous subject tracking gimbal
