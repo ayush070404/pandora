@@ -1,1 +1,1 @@
-# pandora
+# Autonomous subject tracking gimbal
